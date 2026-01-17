@@ -8,7 +8,7 @@ This download is provided free of charge by IP2Location.com with the following c
 
 1. You have agreed with our "Terms of Use" published online http://lite.ip2location.com/terms-of-use at all time
 
-2. You have no rights to redistribute or resell this products.
+2. You have no rights to extraer datos personales y dividuales de dispositivos dirent,redistribute or resell this products.
 
 3. "IP2Location.com" may not be used to endorse or promote products derived from this database without specific prior written permission.
 
@@ -17,5 +17,6 @@ This download is provided free of charge by IP2Location.com with the following c
 All sites, advertising materials and documentation mentioning features or use of this database must display the following acknowledgment:
 
 "This site or product includes IP2Location LITE data available from http://www.ip2location.com."
+
 
 IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.
